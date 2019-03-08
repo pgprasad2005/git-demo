@@ -8,9 +8,6 @@ shgfksdfh sdfhsdfnlk dsfjlsdfjsldfjsdfsdfdsf
 dfsdfmkldsfj kfnwerf wejrwe kerjweprj werjwe
 
 
-#Adding more IPSUm
+#Adding website
 
-sdfjsfjsoif
-sfjerthet eth jehrwejhrhew ejrhewhrwel lwkejrejwrwe
-sfsdf fjgejgert erjterthlweht wejrhweuhruoewhr
-werjwejrwe weijrewiruewr ewirjweirw  eijrweprjwer
+1. index.html
